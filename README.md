@@ -1,4 +1,3 @@
 # GitHubAnalysis
 Analisys of github repository
-
-Sono in un nuovo Branch 
+Mo vi faccio vede io come vi pullo senza pushare!
